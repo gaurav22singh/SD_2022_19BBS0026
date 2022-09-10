@@ -60,6 +60,8 @@ opponent. The winner is prompted. The players can then choose to play another ga
 
 
 #APPROACH
+![image](https://user-images.githubusercontent.com/61469874/189486857-68cb2a7d-1876-47fe-aa7b-e261d9693eb3.png)
+
 
 ## OUTPUT
 ![image](https://user-images.githubusercontent.com/61469874/189484877-530112bf-35b8-4cb2-a994-2150fa9e1857.png)
