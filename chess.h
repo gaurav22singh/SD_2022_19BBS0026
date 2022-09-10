@@ -44,6 +44,7 @@ public:
 		square[x][y]=*s;
 	}
 	bool doMove();
+	//
 	
 	void setBoard();
 	bool playGame();
