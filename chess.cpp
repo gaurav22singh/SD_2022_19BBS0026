@@ -6,7 +6,7 @@ Square::Square()
 	piece = EMPTY;
 	color = NONE;
 }
-
+//
 void Square::setSpace(Square* space)
 {
 	color = space->getColor();
