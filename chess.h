@@ -27,7 +27,7 @@ public:
 	int getY() { return y; }
 	Square();
 };
-
+//
 class Board
 {
 	Square square[8][8];
