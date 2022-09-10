@@ -133,9 +133,7 @@ square[1][0].setPieceAndColor(PAWN, WHITE);
 	square[2][4].setPieceAndColor(PAWN, BLACK);
 	square[3][4].setPieceAndColor(PAWN, BLACK);
 	square[4][4].setPieceAndColor(PAWN, BLACK);
-// 	square[5][7].setPieceAndColor(BISHOP, BLACK);
-// 	square[6][7].setPieceAndColor(KNIGHT, BLACK);
-// 	square[7][7].setPieceAndColor(ROOK, BLACK);
+
 
 	for (int i = 0; i < 5; i++)
 	{
