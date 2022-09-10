@@ -13,6 +13,7 @@ int main()
 	Board b;
 	string s;
 	bool newgame = true;
+	//
 	cout << "   _____ _    _ ______  _____ _____ \n  / ____| |  | |  ____|/ ____/ ____| \n | |    | |__| | |__  | (___| (___  \n | |    |  __  |  __|  \\___  \\___ \\ \n | |____| |  | | |____ ____) |___) | \n  \\_____|_|  |_|______|_____/_____/ \n" << endl;
 	cout << "Gaurav Singh 19BBS0026"<<endl;
 	cout << "Press Enter to continue" << endl;
