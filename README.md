@@ -1,6 +1,7 @@
 # SD_2022_19BBS0026
 # CHESS GAME
 
+#PROBLEM STATEMENT
 
 There are 2 players playing it
 
@@ -57,6 +58,8 @@ characters should be prefixed by A-, ex:- A-P1, A-P3)
   ● The game ends when one player (winner) manages to kill all characters of their
 opponent. The winner is prompted. The players can then choose to play another game.
 
+
+#APPROACH
 
 ## OUTPUT
 ![image](https://user-images.githubusercontent.com/61469874/189484877-530112bf-35b8-4cb2-a994-2150fa9e1857.png)
