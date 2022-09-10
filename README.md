@@ -60,6 +60,8 @@ opponent. The winner is prompted. The players can then choose to play another ga
 
 
 #APPROACH
+  
+  
  The following game of chess was designed from scratch for the task of HitWicket_Software Engineering Role wherein all the OOP concepts and design paradigms were followed for the code build and quality.
 
 The fundamental concept is that Game/Board/etc. merely store the game's state. If that's what you want, you can control them to, say, set up a position. My IGameRules interface is implemented by a class that is in charge of:
@@ -78,9 +80,13 @@ The application then takes move inputs from the players, alternating between the
 
   
 ![image](https://user-images.githubusercontent.com/61469874/189486857-68cb2a7d-1876-47fe-aa7b-e261d9693eb3.png)
+  
+  
 Flowchart Diagram depicting the game flow and the control statements which helps in the loop sturcture of the game of Chess
 
 ![image](https://user-images.githubusercontent.com/61469874/189487135-de48ce4f-90d4-49b3-841f-fa8bf3ea4367.png)
+  
+  
 UML Class Diagram depicting Functionalities and Methods
 
 
