@@ -1,10 +1,9 @@
 # SD_2022_19BBS0026
 # CHESS GAME
 
-#PROBLEM STATEMENT
+# PROBLEM STATEMENT
 
 There are 2 players playing it
-
 
 ● The game is played on a square grid of 5 by 5 blocks
 
@@ -59,10 +58,10 @@ characters should be prefixed by A-, ex:- A-P1, A-P3)
 opponent. The winner is prompted. The players can then choose to play another game.
 
 
-#APPROACH
+# APPROACH
   
   
- The following game of chess was designed from scratch for the task of HitWicket_Software Engineering Role wherein all the OOP concepts and design paradigms were followed for the code build and quality.
+The following game of chess was designed from scratch for the task of HitWicket_Software Engineering Role wherein all the OOP concepts and design paradigms were followed for the code build and quality.
 
 The fundamental concept is that Game/Board/etc. merely store the game's state. If that's what you want, you can control them to, say, set up a position. My IGameRules interface is implemented by a class that is in charge of:
 
@@ -88,6 +87,10 @@ Flowchart Diagram depicting the game flow and the control statements which helps
   
   
 UML Class Diagram depicting Functionalities and Methods
+
+# Approach-
+
+The idea is to use Object Oriented Progrmming in and while creating this chess bases CLI application. Starting eith dividing the program in different files which is basically encapsulation - hiding of data from main function and showing only particular features on call. like chess.h file. The main file is main.cpp which controls the application and runs it using CLI command for C++. In chess.cpp I initialized and created all function and classes which to be used on call and then imported (Inheritance and abstraction). Classes and objects are being used in different access modifiers mode such as public and private to allow access of data. chess.cpp includes all tje board function, moves of pawns and hero, setting of boad pieces on user's input, making move for both players and moving the pawns based on the given criteria and finally playing the game. chess.h includes class Square and clasd Board which sets up the game ans declare all the variables and functions needed which has been created in chess.cpp file.
 
 
 ## OUTPUT
